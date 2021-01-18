@@ -1,0 +1,3 @@
+def Node:
+    int data
+    
